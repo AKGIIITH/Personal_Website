@@ -67,7 +67,7 @@
           "type": "winterbreak",
           "label": "Winter Break",
           "dateRange": "Dec 2023",
-          "headline": "",
+          "headline": "Mysore and Ooty Trip",
           "courses": [],
           "projects": [],
           "achievements": [],
@@ -178,7 +178,7 @@
           "type": "winterbreak",
           "label": "Winter Break",
           "dateRange": "Dec 2024",
-          "headline": " ",
+          "headline": "Kerala Trip",
           "courses": [],
           "projects": [],
           "achievements": [],
@@ -189,7 +189,7 @@
           "type": "spring",
           "label": "Spring Semester",
           "dateRange": "Jan \u2013 May 2025",
-          "headline": "Industry internship and the start of research",
+          "headline": "Industry internship",
           "courses": [
             "Design and Analysis of Software Systems (DASS)",
             "Introduction to NLP (INLP)",
@@ -205,11 +205,6 @@
               "role": "Software Development Intern, Kaizen Platforms",
               "period": "Jan \u2013 Apr 2025",
               "desc": "Backend development on Finease, a production-grade application \u2014 scalable logic, feature integration, and debugging within structured engineering workflows."
-            },
-            {
-              "role": "Undergraduate Researcher, MT-NLP Lab (LTRC)",
-              "period": "Apr 2025 \u2013 Present",
-              "desc": "Began research on mechanistic and developmental interpretability under Prof. Manish Shrivastava."
             }
           ]
         },
@@ -218,10 +213,17 @@
           "type": "summerbreak",
           "label": "Summer Break",
           "dateRange": "May \u2013 Jul 2025",
-          "headline": "Research Continued",
+          "headline": "Start of Research",
           "courses": [],
           "projects": [],
-          "achievements": []
+          "achievements": [],
+          "roles": [
+            {
+              "role": "Undergraduate Researcher, MT-NLP Lab (LTRC)",
+              "period": "Apr 2025 \u2013 Present",
+              "desc": "Began research on mechanistic and developmental interpretability under Prof. Manish Shrivastava."
+            }
+          ]
         }
       ]
     },
@@ -266,7 +268,7 @@
           "type": "winterbreak",
           "label": "Winter Break",
           "dateRange": "Dec 2025",
-          "headline": "",
+          "headline": "Hampi Trip",
           "courses": [],
           "projects": [],
           "achievements": [],
@@ -277,7 +279,7 @@
           "type": "spring",
           "label": "Spring Semester",
           "dateRange": "Jan \u2013 May 2026",
-          "headline": "Teaching, tokenization research, and machine unlearning",
+          "headline": "Teaching, computational psycholinguistics, and machine unlearning",
           "courses": [
             "Computational Psycholinguistics",
             "Application of Language Models",
@@ -302,16 +304,16 @@
               "link": "https://github.com/AKGIIITH/RSAI_Unlearning_Project"
             },
             {
-              "name": "Impact of Tokenization on Machine Translation",
-              "desc": "Research project investigating how vocabulary size (BPE, Unigram) and segmentation choices affect NMT quality across similar language pairs.",
-              "link": null
+              "name": "Computational Psycholinguistics \u2014 Project",
+              "desc": "Extended project work following the coursework.",
+              "link": "https://github.com/AKGIIITH/Computational_Psycholinguistics_Project"
             }
           ],
           "achievements": [],
           "roles": [
             {
               "role": "Teaching Assistant, Introduction to NLP (INLP)",
-              "period": "Jan 2026 \u2013 Present",
+              "period": "Jan 2026 \u2013 May 2026",
               "desc": "Designing assignments, running tutorials, and mentoring students on language modeling, syntax parsing, and sequence labeling."
             }
           ]
@@ -326,13 +328,13 @@
           "projects": [
             {
               "name": "MedHist",
-              "desc": "In progress this summer \u2014 TODO: add a one-line description once you're further along.",
+              "desc": "Digital prescription application.",
               "link": "https://github.com/AKGIIITH/MedHist"
             },
             {
-              "name": "Computational Psycholinguistics \u2014 Project",
-              "desc": "Extended project work following the coursework.",
-              "link": "https://github.com/AKGIIITH/Computational_Psycholinguistics_Project"
+              "name": "Impact of Tokenization on Machine Translation",
+              "desc": "Research project investigating how vocabulary size (BPE, Unigram) and segmentation choices affect NMT quality across similar language pairs.",
+              "link": null
             }
           ],
           "achievements": []

@@ -5,22 +5,12 @@ export default function Hero() {
   return (
     <section className="px-4 sm:px-6 pt-16 sm:pt-24 pb-16">
       <div className="max-w-3xl mx-auto">
-        <div className="flex items-start gap-5 mb-4">
-          {profile.avatar && (
-            <motion.img
-              initial={{ opacity: 0, scale: 0.92 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 0.5 }}
-              src={profile.avatar}
-              alt={profile.name}
-              className="w-16 h-16 sm:w-20 sm:h-20 rounded-full object-cover border-2 border-line shrink-0"
-            />
-          )}
+        <div className="mb-4">
           <motion.p
             initial={{ opacity: 0, y: 8 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
-            className="font-mono text-xs uppercase tracking-widest text-rust mt-6 sm:mt-8"
+            className="font-mono text-xs uppercase tracking-widest text-rust"
           >
             {profile.institution}
           </motion.p>
@@ -63,7 +53,8 @@ export default function Hero() {
             </span>
           ))}
         </div>
-
+        
+        
         <div className="mt-8 flex flex-wrap items-center gap-4">
           <a
             href={`mailto:${profile.email}`}
@@ -88,7 +79,7 @@ export default function Hero() {
             LinkedIn ↗
           </a>
           <a
-            href={profile.links.resume}
+            href={`${import.meta.env.BASE_URL}${profile.links.resume}`}
             target="_blank"
             rel="noreferrer"
             className="text-sm font-mono text-ink-soft hover:text-cobalt transition-colors"

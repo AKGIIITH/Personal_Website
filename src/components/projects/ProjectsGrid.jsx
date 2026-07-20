@@ -13,7 +13,7 @@ export default function ProjectsGrid() {
             Projects
           </h2>
           <p className="text-ink-soft mt-3">
-            Pulled from the timeline above — the ones worth a second look.
+            Comprehensive overview of my projects.
           </p>
         </div>
 
