@@ -1,0 +1,343 @@
+{
+  "preCollege": [
+    {
+      "id": "class10",
+      "title": "Class 10",
+      "period": "2020-2021",
+      "detail": "95.6% in Class 10 CBSE Board Exams",
+      "tag": "milestone"
+    },
+    {
+      "id": "jee-prep",
+      "title": "JEE Preparation",
+      "period": "2021\u20132023",
+      "detail": "Self-studied for JEE Main and Advanced, with a focus on Physics, Chemistry, and Mathematics.",
+      "tag": "milestone"
+    },
+    {
+      "id": "class12",
+      "title": "Class 12",
+      "period": "2021-23",
+      "detail": "93.8% in Class 12 CBSE Board Exams",
+      "tag": "milestone"
+    },
+    {
+      "id": "ugee",
+      "title": "UGEE \u2014 AIR 68",
+      "period": "2023",
+      "detail": "Cleared IIIT Hyderabad's Undergraduate Entrance Exam with All India Rank 68, securing admission to the BTech CSE + MS CL dual-degree program.",
+      "tag": "milestone"
+    }
+  ],
+  "years": [
+    {
+      "id": "y1",
+      "label": "Year 1",
+      "academicYear": "2023 \u2013 2024",
+      "sections": [
+        {
+          "id": "y1-monsoon",
+          "type": "monsoon",
+          "label": "Monsoon Semester",
+          "dateRange": "Aug \u2013 Dec 2023",
+          "headline": "First semester at IIIT-H",
+          "courses": [
+            "Linguistics",
+            "Introduction to Programming (C)",
+            "Discrete Structures",
+            "Digital Systems & Microprocessors (DSM)"
+          ],
+          "notes": "In DSM, built logic gates, combinational circuits, and a calculator on breadboards, alongside an online circuit simulator for the may designs. In Discrete Structures, learned about propositional logic, predicate logic, set theory, and combinatorics. In Linguistics, studied phonetics, morphology, syntax, and semantics. In Introduction to Programming, learned C programming and data structures.",
+          "projects": [
+            {
+              "name": "Academics UG1.1",
+              "desc": "Coursework, assignments, and notes from the first semester of the CLD program.",
+              "link": "https://github.com/AKGIIITH/Academics_UG1.1"
+            }
+          ],
+          "achievements": [
+            {
+              "label": "Codeforces Rating",
+              "value": "1070"
+            }
+          ]
+        },
+        {
+          "id": "y1-winter",
+          "type": "winterbreak",
+          "label": "Winter Break",
+          "dateRange": "Dec 2023",
+          "headline": "",
+          "courses": [],
+          "projects": [],
+          "achievements": [],
+          "images": []
+        },
+        {
+          "id": "y1-spring",
+          "type": "spring",
+          "label": "Spring Semester",
+          "dateRange": "Jan \u2013 May 2024",
+          "headline": "Linear Algebra and first Computational Linguistics project",
+          "courses": [
+            "Linear Algebra",
+            "Computational Linguistics-1",
+            "Introduction to Linguistics-2",
+            "Data Structures & Algorithms (DSA)",
+            "Intorduction to Software Systems (ISS)"
+          ],
+          "projects": [
+            {
+              "name": "Personal Website",
+              "desc": "Started building and hosting this personal site.",
+              "link": "https://github.com/AKGIIITH/Personal_Website"
+            },
+            {
+              "name": "NER CRF Hindi",
+              "desc": "Computational Linguistics project: a CRF-based Named Entity Recognition system for Hindi.",
+              "link": "https://github.com/AKGIIITH/NER_CRF_Hindi"
+            },
+            {
+              "name": "WebEditor",
+              "desc": "ISS course project \u2014 a browser-based file/document editor.",
+              "link": "https://github.com/AKGIIITH/WebEditor"
+            }
+          ],
+          "achievements": []
+        },
+        {
+          "id": "y1-summer",
+          "type": "summerbreak",
+          "label": "Summer Break",
+          "dateRange": "May \u2013 Jul 2024",
+          "headline": "Summer Analytics",
+          "courses": [
+            "Summer Analytics \u2014 Machine Learning"
+          ],
+          "projects": [],
+          "achievements": [
+            "Certificate of Completion for Summer Analytics - IIT Guwahati"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y2",
+      "label": "Year 2",
+      "academicYear": "2024 \u2013 2025",
+      "sections": [
+        {
+          "id": "y2-monsoon",
+          "type": "monsoon",
+          "label": "Monsoon Semester",
+          "dateRange": "Aug \u2013 Dec 2024",
+          "headline": "Probability, Operating Systems, and Computational Linguistics-2",
+          "courses": [
+            "Probability & Statistics",
+            "Operating Systems & Networks",
+            "Computational Linguistics-2",
+            "Advaced Algorithms & Design",
+            "Machine Data Learning"
+          ],
+          "projects": [
+            {
+              "name": "Academics UG2.1",
+              "desc": "Assignments, question papers, and notes from the third semester.",
+              "link": "https://github.com/AKGIIITH/Academics_UG2.1"
+            },
+            {
+              "name": "XV6 Scheduler",
+              "desc": "Implemented three different CPU schedulers on the xv6 teaching OS.",
+              "link": "https://github.com/AKGIIITH/XV6-Scheduler"
+            },
+            {
+              "name": "C-Shell",
+              "desc": "A Unix-like shell written in C, with custom builtins (e.g. hop for cd).",
+              "link": "https://github.com/AKGIIITH/C-Shell"
+            },
+            {
+              "name": "Network File System",
+              "desc": "Team project implementing a distributed Network File System \u2014 built the Storage Server component.",
+              "link": "https://github.com/AKGIIITH/Network_File_System"
+            },
+            {
+              "name": "Tic-Tac-Toe over TCP/UDP",
+              "desc": "Networked Tic-Tac-Toe using raw TCP and UDP sockets in C.",
+              "link": "https://github.com/AKGIIITH/Tic-Tac-Toe_Networking"
+            },
+            {
+              "name": "ABSA CRF",
+              "desc": "Computational Linguistics-2: supervised and unsupervised aspect extraction; CRF outperformed unsupervised baselines for Aspect-Based Sentiment Analysis.",
+              "link": "https://github.com/AKGIIITH/ABSA_CRF"
+            }
+          ],
+          "achievements": []
+        },
+        {
+          "id": "y2-winter",
+          "type": "winterbreak",
+          "label": "Winter Break",
+          "dateRange": "Dec 2024",
+          "headline": " ",
+          "courses": [],
+          "projects": [],
+          "achievements": [],
+          "images": []
+        },
+        {
+          "id": "y2-spring",
+          "type": "spring",
+          "label": "Spring Semester",
+          "dateRange": "Jan \u2013 May 2025",
+          "headline": "Industry internship and the start of research",
+          "courses": [
+            "Design and Analysis of Software Systems (DASS)",
+            "Introduction to NLP (INLP)",
+            "Probability & Statistics",
+            "Language Technology and Universals"
+          ],
+          "projects": [],
+          "achievements": [
+            "Received Internship Certificate from Kaizen Platforms for Software Development Internship"
+          ],
+          "roles": [
+            {
+              "role": "Software Development Intern, Kaizen Platforms",
+              "period": "Jan \u2013 Apr 2025",
+              "desc": "Backend development on Finease, a production-grade application \u2014 scalable logic, feature integration, and debugging within structured engineering workflows."
+            },
+            {
+              "role": "Undergraduate Researcher, MT-NLP Lab (LTRC)",
+              "period": "Apr 2025 \u2013 Present",
+              "desc": "Began research on mechanistic and developmental interpretability under Prof. Manish Shrivastava."
+            }
+          ]
+        },
+        {
+          "id": "y2-summer",
+          "type": "summerbreak",
+          "label": "Summer Break",
+          "dateRange": "May \u2013 Jul 2025",
+          "headline": "Research Continued",
+          "courses": [],
+          "projects": [],
+          "achievements": []
+        }
+      ]
+    },
+    {
+      "id": "y3",
+      "label": "Year 3",
+      "academicYear": "2025 \u2013 2026",
+      "sections": [
+        {
+          "id": "y3-monsoon",
+          "type": "monsoon",
+          "label": "Monsoon Semester",
+          "dateRange": "Aug \u2013 Dec 2025",
+          "headline": "Information Retrieval and NLP research projects",
+          "courses": [
+            "Information Retrieval & Extraction (IRE)",
+            "Advanced NLP (ANLP)",
+            "NLP and Healthcare",
+            "Introduction to Psychology"
+          ],
+          "projects": [
+            {
+              "name": "Information Retrieval System",
+              "desc": "Built a full IR pipeline \u2014 crawler, indexer, ranker \u2014 from scratch; compared TAAT and DAAT scoring against ElasticSearch benchmarks.",
+              "link": "https://github.com/AKGIIITH/IRE_Assignment"
+            },
+            {
+              "name": "Subliminal Learning & Token Entanglement",
+              "desc": "Team project (Decepticons) studying representational leakage, token entanglement, and bias transfer in language models.",
+              "link": "https://github.com/AKGIIITH/Advanced_NLP_Project"
+            },
+            {
+              "name": "Patient Risk Prediction",
+              "desc": "NLP project predicting 30-day hospital readmission from the MIMIC-IV dataset across several models.",
+              "link": "https://github.com/AKGIIITH/Patient_Risk_Prediction"
+            }
+          ],
+          "achievements": []
+        },
+        {
+          "id": "y3-winter",
+          "type": "winterbreak",
+          "label": "Winter Break",
+          "dateRange": "Dec 2025",
+          "headline": "",
+          "courses": [],
+          "projects": [],
+          "achievements": [],
+          "images": []
+        },
+        {
+          "id": "y3-spring",
+          "type": "spring",
+          "label": "Spring Semester",
+          "dateRange": "Jan \u2013 May 2026",
+          "headline": "Teaching, tokenization research, and machine unlearning",
+          "courses": [
+            "Computational Psycholinguistics",
+            "Application of Language Models",
+            "Responsible and Safe AI",
+            "Evaluation in NLP",
+            "Science-2"
+          ],
+          "projects": [
+            {
+              "name": "Computational Psycholinguistics",
+              "desc": "Coursework and project work in computational psycholinguistics.",
+              "link": "https://github.com/AKGIIITH/Computational_Psycholinguistics"
+            },
+            {
+              "name": "Personalised Learning System",
+              "desc": "A system for adaptive, personalised learning.",
+              "link": "https://github.com/AKGIIITH/PersonalisedLearningSystem"
+            },
+            {
+              "name": "Machine Unlearning in VLMs",
+              "desc": "Evaluated targeted forgetting algorithms in vision-language models to erase specific knowledge subsets using Sparse Autoencoders (SAEs).",
+              "link": "https://github.com/AKGIIITH/RSAI_Unlearning_Project"
+            },
+            {
+              "name": "Impact of Tokenization on Machine Translation",
+              "desc": "Research project investigating how vocabulary size (BPE, Unigram) and segmentation choices affect NMT quality across similar language pairs.",
+              "link": null
+            }
+          ],
+          "achievements": [],
+          "roles": [
+            {
+              "role": "Teaching Assistant, Introduction to NLP (INLP)",
+              "period": "Jan 2026 \u2013 Present",
+              "desc": "Designing assignments, running tutorials, and mentoring students on language modeling, syntax parsing, and sequence labeling."
+            }
+          ]
+        },
+        {
+          "id": "y3-summer",
+          "type": "summerbreak",
+          "label": "Summer Break",
+          "dateRange": "May \u2013 Jul 2026",
+          "headline": "Building MedHist",
+          "courses": [],
+          "projects": [
+            {
+              "name": "MedHist",
+              "desc": "In progress this summer \u2014 TODO: add a one-line description once you're further along.",
+              "link": "https://github.com/AKGIIITH/MedHist"
+            },
+            {
+              "name": "Computational Psycholinguistics \u2014 Project",
+              "desc": "Extended project work following the coursework.",
+              "link": "https://github.com/AKGIIITH/Computational_Psycholinguistics_Project"
+            }
+          ],
+          "achievements": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Ayush Kumar Gupta",
+  "tagline": "BTech in Computer Science · MS in Computational Linguistics",
+  "institution": "International Institute of Information Technology, Hyderabad",
+  "bio": "I study how neural language models learn — probing internal representations, attention dynamics, and failure modes to understand how linguistic knowledge is acquired from indirect supervision. Alongside research, I build NLP systems end to end: information retrieval pipelines, sequence labelers, and the occasional networked shell.",
+  "avatar": "/avatar.png",
+  "email": "akgiiith@gmail.com",
+  "phone": "+91-9993345988",
+  "links": {
+    "github": "https://github.com/AKGIIITH",
+    "linkedin": "https://www.linkedin.com/in/ayush-kumar-gupta-iiith/",
+    "resume": "/resume.pdf",
+    "codeforces": "https://codeforces.com/profile/AKG_IIITH"
+  },
+  "researchInterests": [
+    "Mechanistic Interpretability",
+    "Developmental Interpretability",
+    "Singular Learning Theory",
+    "Deep Learning",
+    "Explainable AI",
+    "Multimodal NLP"
+  ],
+  "skills": {
+    "Languages": ["Python", "C", "Bash"],
+    "Tools": ["Git", "Linux", "ElasticSearch", "Pandas", "LaTeX"],
+    "ML/DL": ["PyTorch", "NumPy", "scikit-learn", "Transformers"],
+    "NLP": ["Interpretability", "Machine Translation", "Tokenization", "Information Retrieval", "Embeddings"],
+    "Prompting": ["Prompt Engineering", "Chain-of-Thought", "Model Evaluation", "Agentic Systems"]
+  },
+  "current": [
+    {
+      "role": "Undergraduate Researcher, MT-NLP Lab (LTRC)",
+      "org": "IIIT Hyderabad · Supervisor: Prof. Manish Shrivastava",
+      "period": "Apr 2025 – Present"
+    },
+    {
+      "role": "Teaching Assistant, Introduction to NLP (INLP)",
+      "org": "IIIT Hyderabad",
+      "period": "Jan 2026 – Present"
+    }
+  ]
+}

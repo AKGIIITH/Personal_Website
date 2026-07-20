@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tokenization-mt",
+    "title": "Impact of Tokenization on Machine Translation",
+    "type": "Research Project",
+    "period": "Spring 2026",
+    "desc": "Investigating the correlation between vocabulary size (BPE, Unigram) and NMT metrics — how segmentation choices affect translation consistency across similar language pairs.",
+    "tags": ["NLP", "Machine Translation", "Tokenization"],
+    "link": null,
+    "timelineId": null
+  },
+  {
+    "id": "vlm-unlearning",
+    "title": "Machine Unlearning in VLMs",
+    "type": "Course Project",
+    "period": "Spring 2026",
+    "desc": "Evaluated targeted forgetting algorithms in vision-language models to erase specific knowledge subsets using Sparse Autoencoders.",
+    "tags": ["Interpretability", "VLMs", "SAEs"],
+    "link": "https://github.com/AKGIIITH/RSAI_Unlearning_Project",
+    "timelineId": "y3-spring"
+  },
+  {
+    "id": "subliminal-learning",
+    "title": "Subliminal Learning and Token Entanglement",
+    "type": "Research Project",
+    "period": "Monsoon 2025",
+    "desc": "Studied representational leakage and token entanglement in language models — how implicit concepts are learned under controlled prompting.",
+    "tags": ["Interpretability", "Bias Transfer"],
+    "link": "https://github.com/AKGIIITH/Advanced_NLP_Project",
+    "timelineId": "y3-monsoon"
+  },
+  {
+    "id": "ir-system",
+    "title": "Information Retrieval System",
+    "type": "Course Project",
+    "period": "Monsoon 2025",
+    "desc": "Built a full IR pipeline — crawler, indexer, ranker — from scratch. Compared TAAT and DAAT scoring strategies against ElasticSearch benchmarks.",
+    "tags": ["Information Retrieval", "ElasticSearch"],
+    "link": "https://github.com/AKGIIITH/IRE_Assignment",
+    "timelineId": "y3-monsoon"
+  },
+  {
+    "id": "sequence-labeling",
+    "title": "Sequence Labeling for Indian Languages",
+    "type": "Coursework",
+    "period": "2024 – 2025",
+    "desc": "CRF-based systems for Hindi NER and Aspect-Based Sentiment Analysis, with feature engineering and context-window tuning for structured prediction.",
+    "tags": ["NLP", "CRF", "NER"],
+    "link": "https://github.com/AKGIIITH/NER_CRF_Hindi",
+    "timelineId": "y1-spring"
+  }
+]
